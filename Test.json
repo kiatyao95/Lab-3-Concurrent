@@ -1,0 +1,26 @@
+[
+	{
+		"name":"Mooway",
+		"species":"cat",
+		"foods":{
+			"likes":["Tuna", "catnip"],
+			"dislikes": ["ham", "pork"]
+			}
+	},
+	{
+		"name":"Jason",
+		"species":"dog",
+		"foods":{
+			"likes":["Bone", "bacon"],
+			"dislikes": ["stick", "biscuit"]
+			}
+	},
+	{
+		"name":"John",
+		"species":"dragon",
+		"foods":{
+			"likes":["Human", "Devil"],
+			"dislikes": ["Women", "Metal"]
+			}
+	},
+]
